@@ -1,0 +1,501 @@
+Date,Merchant,Amount,Category
+2024-01-01,Skillshare,1372.65,Education
+2024-01-02,Society Maintenance,503.27,Bills
+2024-01-02,Swiggy,353.9,Food
+2024-01-03,BookMyShow,841.44,Entertainment
+2024-01-05,BESCOM Electricity,2573.81,Bills
+2024-01-07,LeetCode Premium,964.63,Education
+2024-01-09,McDonald's,193.0,Food
+2024-01-09,RedBus,11759.78,Travel
+2024-01-09,Society Maintenance,1322.64,Bills
+2024-01-12,MasterClass,4105.97,Education
+2024-01-14,Behrouz Biryani,184.23,Food
+2024-01-17,Blinkit,6925.02,Shopping
+2024-01-18,Flipkart,2108.17,Shopping
+2024-01-19,Amazon Prime,1536.92,Bills
+2024-01-19,DMart,1950.44,Shopping
+2024-01-20,ZEE5,1311.28,Entertainment
+2024-01-20,Haldiram's,165.94,Food
+2024-01-22,Paytm Insurance,3131.64,Bills
+2024-01-22,Spencer's Retail,7384.99,Shopping
+2024-01-23,MakeMyTrip,6500.13,Travel
+2024-01-25,Dr. Lal PathLabs,1165.54,Healthcare
+2024-01-25,Rebel Foods,591.97,Food
+2024-01-26,Axis Bank EMI,1243.73,Bills
+2024-01-27,Microsoft 365,468.74,Bills
+2024-01-27,Paytm Insurance,2839.08,Bills
+2024-01-27,EatFit,1179.18,Food
+2024-01-27,GeeksforGeeks Premium,2238.9,Education
+2024-01-28,Netflix,2549.7,Bills
+2024-01-29,Haldiram's,342.26,Food
+2024-01-29,H&M India,3439.73,Shopping
+2024-01-31,Westside,7319.37,Shopping
+2024-01-31,INOX Movies,2959.78,Entertainment
+2024-01-31,Vedantu,4327.3,Education
+2024-01-31,Lenskart,1568.68,Entertainment
+2024-01-31,MTR Foods,622.36,Food
+2024-02-04,Social Restaurant,485.61,Food
+2024-02-04,RedBus,9269.44,Travel
+2024-02-04,Cafe Coffee Day,124.61,Food
+2024-02-05,Cult.fit,2724.61,Healthcare
+2024-02-07,Barbeque Nation,799.42,Food
+2024-02-07,Faasos,891.22,Food
+2024-02-08,PVR Cinemas,2316.35,Entertainment
+2024-02-08,Spotify Premium,4511.56,Bills
+2024-02-08,Drivezy,11460.56,Travel
+2024-02-09,Subway,661.78,Food
+2024-02-09,MakeMyTrip,8664.75,Travel
+2024-02-09,Meesho,4115.42,Shopping
+2024-02-10,Yatra,8962.37,Travel
+2024-02-10,Behrouz Biryani,387.39,Food
+2024-02-11,Jio Recharge,602.57,Bills
+2024-02-12,BESCOM Electricity,2237.88,Bills
+2024-02-12,Udupi Darshini,877.08,Food
+2024-02-12,Croma,2477.59,Shopping
+2024-02-13,H&M India,1240.54,Shopping
+2024-02-13,Subway,816.51,Food
+2024-02-13,Blinkit,726.97,Shopping
+2024-02-13,KFC,913.94,Food
+2024-02-14,Disney+ Hotstar,1414.23,Entertainment
+2024-02-14,Meesho,6249.7,Shopping
+2024-02-14,Udupi Darshini,1199.55,Food
+2024-02-14,RedBus,2258.14,Travel
+2024-02-15,Netflix,2745.02,Bills
+2024-02-16,Airtel Postpaid,1184.31,Bills
+2024-02-16,H&M India,3198.35,Shopping
+2024-02-17,SBI Credit Card Bill,3228.61,Bills
+2024-02-17,Reliance Digital,601.04,Shopping
+2024-02-17,Subway,1084.96,Food
+2024-02-18,Zepto,2415.63,Shopping
+2024-02-18,PVR Cinemas,765.55,Entertainment
+2024-02-19,Croma,1696.26,Shopping
+2024-02-19,Cleartrip,6716.09,Travel
+2024-02-20,EatFit,916.48,Food
+2024-02-21,KFC,740.32,Food
+2024-02-22,Axis Bank EMI,4278.01,Bills
+2024-02-24,FreshMenu,431.72,Food
+2024-02-24,Haldiram's,578.1,Food
+2024-02-24,Faasos,528.5,Food
+2024-02-25,Snapdeal,5874.29,Shopping
+2024-02-26,FreshMenu,431.34,Food
+2024-02-26,Gym Membership,2427.28,Healthcare
+2024-02-26,Netflix,1609.88,Bills
+2024-02-27,Behrouz Biryani,1091.23,Food
+2024-02-27,Meru Cabs,7797.01,Travel
+2024-02-27,Snapdeal,6245.66,Shopping
+2024-02-27,Rebel Foods,159.53,Food
+2024-02-27,MTR Foods,768.71,Food
+2024-02-28,Box8,671.04,Food
+2024-03-01,Nykaa,3361.65,Shopping
+2024-03-01,Airtel Postpaid,1774.14,Bills
+2024-03-02,Reliance Digital,3724.41,Shopping
+2024-03-02,MTR Foods,276.78,Food
+2024-03-03,Vedantu,1572.31,Education
+2024-03-05,Spotify Premium,3704.47,Bills
+2024-03-05,ACT Fibernet,1360.18,Bills
+2024-03-06,Netflix,4198.72,Bills
+2024-03-07,Flipkart,6684.68,Shopping
+2024-03-07,Axis Bank EMI,2873.57,Bills
+2024-03-09,ACT Fibernet,480.86,Bills
+2024-03-09,HealthifyMe,1164.06,Healthcare
+2024-03-09,Goibibo,2479.87,Travel
+2024-03-10,HealthifyMe,773.36,Healthcare
+2024-03-10,Vistara,4020.0,Travel
+2024-03-10,HDFC Loan EMI,1965.51,Bills
+2024-03-11,Faasos,348.0,Food
+2024-03-11,Box8,859.6,Food
+2024-03-12,Amazon Prime,4056.19,Bills
+2024-03-12,Croma,252.28,Shopping
+2024-03-12,McDonald's,357.95,Food
+2024-03-12,Netflix,1374.76,Bills
+2024-03-12,ICICI Credit Card,2325.17,Bills
+2024-03-13,DMart,4851.72,Shopping
+2024-03-13,Cleartrip,5491.22,Travel
+2024-03-14,Ola,7396.97,Travel
+2024-03-15,Starbucks,754.69,Food
+2024-03-16,Pizza Hut,779.24,Food
+2024-03-17,H&M India,1289.43,Shopping
+2024-03-17,Westside,4316.15,Shopping
+2024-03-18,Ola,5819.11,Travel
+2024-03-18,EatFit,590.73,Food
+2024-03-18,Air India,4954.01,Travel
+2024-03-19,Haldiram's,168.5,Food
+2024-03-19,LIC Premium,507.8,Bills
+2024-03-19,Rebel Foods,986.13,Food
+2024-03-21,Cleartrip,9333.19,Travel
+2024-03-21,KFC,1081.58,Food
+2024-03-22,Dr. Lal PathLabs,840.35,Healthcare
+2024-03-22,H&M India,3840.62,Shopping
+2024-03-25,Jio Recharge,2142.08,Bills
+2024-03-27,Tata Sky DTH,822.51,Bills
+2024-03-27,Yatra,3507.53,Travel
+2024-03-29,FreshMenu,1189.9,Food
+2024-03-31,LeetCode Premium,1889.69,Education
+2024-03-31,PVR Cinemas,2991.8,Entertainment
+2024-04-02,BigBasket,999.37,Shopping
+2024-04-02,LeetCode Premium,5696.42,Education
+2024-04-05,Barbeque Nation,965.66,Food
+2024-04-07,Unacademy,4531.65,Education
+2024-04-08,Pluralsight,3436.46,Education
+2024-04-10,Vistara,6858.98,Travel
+2024-04-12,ACT Fibernet,4383.93,Bills
+2024-04-12,Dr. Lal PathLabs,3740.15,Healthcare
+2024-04-13,Ajio,1482.55,Shopping
+2024-04-13,Faasos,202.05,Food
+2024-04-14,IRCTC,3785.36,Travel
+2024-04-14,Vedantu,3310.6,Education
+2024-04-15,Blinkit,3913.54,Shopping
+2024-04-17,Tata Cliq,6683.83,Shopping
+2024-04-18,Spotify Premium,1553.11,Bills
+2024-04-19,Ajio,7375.09,Shopping
+2024-04-19,McDonald's,726.63,Food
+2024-04-20,Croma,3427.16,Shopping
+2024-04-23,IndiGo Airlines,962.73,Travel
+2024-04-23,Airtel Postpaid,1414.02,Bills
+2024-04-23,Domino's Pizza,615.56,Food
+2024-04-23,SRL Diagnostics,3728.84,Healthcare
+2024-04-24,SRL Diagnostics,3396.96,Healthcare
+2024-04-25,Steam Games,2336.18,Entertainment
+2024-04-29,MTR Foods,449.93,Food
+2024-05-01,Faasos,851.83,Food
+2024-05-02,Tata Cliq,3168.54,Shopping
+2024-05-02,IndiGo Airlines,4511.01,Travel
+2024-05-03,Nykaa,5381.76,Shopping
+2024-05-04,LinkedIn Learning,1939.15,Education
+2024-05-04,Zara India,1448.22,Shopping
+2024-05-05,BigBasket,2206.41,Shopping
+2024-05-06,Ajio,2349.34,Shopping
+2024-05-06,Zomato,405.04,Food
+2024-05-07,Udemy,4466.65,Education
+2024-05-07,Cleartrip,3291.53,Travel
+2024-05-13,Amazon Prime,4982.37,Bills
+2024-05-15,LinkedIn Learning,4383.84,Education
+2024-05-16,Unacademy,985.55,Education
+2024-05-17,Zepto,3724.99,Shopping
+2024-05-18,McDonald's,289.88,Food
+2024-05-19,SBI Credit Card Bill,2528.92,Bills
+2024-05-19,Google One,4619.38,Bills
+2024-05-19,EatFit,207.48,Food
+2024-05-20,Social Restaurant,360.44,Food
+2024-05-20,Haldiram's,268.39,Food
+2024-05-22,Paytm Insurance,2354.73,Bills
+2024-05-24,Cleartrip,8162.83,Travel
+2024-05-25,Starbucks,385.53,Food
+2024-05-26,ICICI Credit Card,1120.07,Bills
+2024-05-27,Uber,10899.85,Travel
+2024-05-27,BYJU'S,2208.25,Education
+2024-05-28,ZEE5,2163.96,Entertainment
+2024-05-28,Apollo Pharmacy,1263.73,Healthcare
+2024-05-31,1mg,2079.99,Healthcare
+2024-05-31,Rapido,1437.03,Travel
+2024-06-02,H&M India,6660.49,Shopping
+2024-06-02,KFC,105.3,Food
+2024-06-03,Lifestyle Stores,288.21,Shopping
+2024-06-03,Domino's Pizza,150.86,Food
+2024-06-06,Myntra,7572.76,Shopping
+2024-06-06,LIC Premium,1383.37,Bills
+2024-06-08,Metro Card Recharge,5508.12,Travel
+2024-06-09,Paytm Insurance,4774.88,Bills
+2024-06-09,Lifestyle Stores,3353.9,Shopping
+2024-06-10,Cafe Coffee Day,737.48,Food
+2024-06-10,Lenskart,2131.8,Entertainment
+2024-06-12,KFC,379.57,Food
+2024-06-12,PlayStation Store,2394.8,Entertainment
+2024-06-12,Paytm Insurance,4880.54,Bills
+2024-06-12,BESCOM Electricity,2817.04,Bills
+2024-06-13,Domino's Pizza,1183.98,Food
+2024-06-15,Rebel Foods,595.31,Food
+2024-06-15,Vistara,4411.94,Travel
+2024-06-16,Subway,1164.61,Food
+2024-06-16,Goibibo,2841.65,Travel
+2024-06-16,Google One,2312.14,Bills
+2024-06-18,Skillshare,813.58,Education
+2024-06-19,Ola,2581.1,Travel
+2024-06-19,Social Restaurant,691.54,Food
+2024-06-21,PharmEasy,2429.26,Healthcare
+2024-06-24,BYJU'S,3125.89,Education
+2024-06-24,Tata Sky DTH,4660.05,Bills
+2024-06-26,Snapdeal,1501.48,Shopping
+2024-06-26,MTR Foods,340.0,Food
+2024-06-27,Behrouz Biryani,520.23,Food
+2024-06-27,Snapdeal,2444.04,Shopping
+2024-06-27,IRCTC,2873.41,Travel
+2024-06-28,Domino's Pizza,714.28,Food
+2024-06-29,Haldiram's,634.28,Food
+2024-06-29,Tata Cliq,3801.05,Shopping
+2024-06-29,Behrouz Biryani,626.91,Food
+2024-06-30,Rebel Foods,129.61,Food
+2024-07-01,Zepto,3567.85,Shopping
+2024-07-03,Gas Bill GAIL,3029.62,Bills
+2024-07-03,Faasos,266.91,Food
+2024-07-06,Amazon Prime,3071.55,Bills
+2024-07-06,Flipkart,6127.79,Shopping
+2024-07-07,PharmEasy,1592.61,Healthcare
+2024-07-07,Pizza Hut,722.99,Food
+2024-07-07,Zepto,5997.54,Shopping
+2024-07-07,Faasos,958.65,Food
+2024-07-08,Rapido,6908.37,Travel
+2024-07-08,Uber,6772.17,Travel
+2024-07-09,Ayur Clinic,333.93,Healthcare
+2024-07-09,Tata Sky DTH,400.22,Bills
+2024-07-10,Zoom Car,8300.73,Travel
+2024-07-10,Swiggy,479.95,Food
+2024-07-12,Rent Payment,340.85,Bills
+2024-07-13,FastTag Recharge,720.57,Travel
+2024-07-13,Croma,4101.55,Shopping
+2024-07-14,Zepto,3129.41,Shopping
+2024-07-14,DMart,7736.86,Shopping
+2024-07-15,KFC,195.59,Food
+2024-07-15,Cult.fit,1068.25,Healthcare
+2024-07-15,Ola Cabs,3808.32,Travel
+2024-07-15,Pizza Hut,1148.52,Food
+2024-07-16,IndiGo Airlines,5979.63,Travel
+2024-07-16,Coding Ninjas,1501.55,Education
+2024-07-16,Zara India,2381.1,Shopping
+2024-07-18,Medplus,2579.12,Healthcare
+2024-07-19,Myntra,2618.63,Shopping
+2024-07-20,Faasos,149.76,Food
+2024-07-21,Tata Cliq,2228.56,Shopping
+2024-07-21,PharmEasy,1232.77,Healthcare
+2024-07-22,LeetCode Premium,370.86,Education
+2024-07-22,Udupi Darshini,594.08,Food
+2024-07-22,Tata Sky DTH,4692.49,Bills
+2024-07-22,MTR Foods,1003.83,Food
+2024-07-24,Flipkart,502.57,Shopping
+2024-07-24,Behrouz Biryani,682.17,Food
+2024-07-24,Swiggy,182.77,Food
+2024-07-24,RedBus,5908.71,Travel
+2024-07-24,FreshMenu,1049.96,Food
+2024-07-25,Vistara,661.33,Travel
+2024-07-26,Nykaa,5195.38,Shopping
+2024-07-28,Behrouz Biryani,467.99,Food
+2024-07-29,EatFit,888.86,Food
+2024-07-29,YouTube Premium,2614.31,Entertainment
+2024-07-30,Rapido,8711.88,Travel
+2024-07-30,Subway,156.12,Food
+2024-07-31,EatFit,498.84,Food
+2024-07-31,SBI Credit Card Bill,2519.68,Bills
+2024-08-01,Yatra,4548.7,Travel
+2024-08-04,Rapido,6516.9,Travel
+2024-08-04,ICICI Credit Card,492.59,Bills
+2024-08-04,Amazon,3027.62,Shopping
+2024-08-06,Flipkart,7783.84,Shopping
+2024-08-06,FreshMenu,473.73,Food
+2024-08-07,Ayur Clinic,202.39,Healthcare
+2024-08-07,McDonald's,374.5,Food
+2024-08-08,Faasos,625.03,Food
+2024-08-08,KFC,1035.13,Food
+2024-08-08,PharmEasy,1271.7,Healthcare
+2024-08-09,Drivezy,10603.01,Travel
+2024-08-10,Microsoft 365,2893.97,Bills
+2024-08-10,Haldiram's,622.34,Food
+2024-08-10,Zomato,164.05,Food
+2024-08-11,Netflix,429.9,Bills
+2024-08-12,SBI Credit Card Bill,1696.03,Bills
+2024-08-13,DMart,997.95,Shopping
+2024-08-14,ICICI Credit Card,1187.05,Bills
+2024-08-14,Spotify Premium,3017.98,Bills
+2024-08-15,McDonald's,440.77,Food
+2024-08-15,Barbeque Nation,995.16,Food
+2024-08-17,Subway,426.6,Food
+2024-08-17,H&M India,3382.15,Shopping
+2024-08-18,Zepto,233.71,Shopping
+2024-08-18,Blinkit,7624.32,Shopping
+2024-08-18,H&M India,2886.56,Shopping
+2024-08-20,Rent Payment,1961.45,Bills
+2024-08-20,RedBus,3784.95,Travel
+2024-08-22,More Supermarket,4487.41,Shopping
+2024-08-22,Cafe Coffee Day,129.06,Food
+2024-08-23,Starbucks,574.24,Food
+2024-08-23,PlayStation Store,1683.74,Entertainment
+2024-08-25,KFC,181.27,Food
+2024-08-27,Gas Bill GAIL,778.52,Bills
+2024-08-28,ALTBalaji,1166.11,Entertainment
+2024-08-28,Microsoft 365,4584.42,Bills
+2024-08-29,IRCTC,2188.58,Travel
+2024-08-29,BYJU'S,295.82,Education
+2024-08-29,MTR Foods,281.58,Food
+2024-08-29,Domino's Pizza,85.8,Food
+2024-08-31,Reliance Digital,6095.86,Shopping
+2024-09-01,BigBasket,7662.1,Shopping
+2024-09-02,ACT Fibernet,455.1,Bills
+2024-09-02,DMart,6621.87,Shopping
+2024-09-02,ALTBalaji,1249.63,Entertainment
+2024-09-05,Udupi Darshini,1159.49,Food
+2024-09-05,Domino's Pizza,253.54,Food
+2024-09-06,Ola,10433.45,Travel
+2024-09-07,Duolingo Plus,2872.27,Education
+2024-09-07,IndiGo Airlines,3809.23,Travel
+2024-09-07,EatFit,578.94,Food
+2024-09-09,Simplilearn,4448.02,Education
+2024-09-09,Behrouz Biryani,720.95,Food
+2024-09-10,Haldiram's,458.29,Food
+2024-09-10,Reliance Digital,3770.78,Shopping
+2024-09-11,BMTC Bus Pass,3237.31,Travel
+2024-09-12,Zara India,1117.65,Shopping
+2024-09-13,Zomato,584.59,Food
+2024-09-14,Steam Games,2101.53,Entertainment
+2024-09-15,Croma,1877.34,Shopping
+2024-09-15,HDFC Loan EMI,3470.46,Bills
+2024-09-19,MTR Foods,182.72,Food
+2024-09-19,HealthifyMe,484.57,Healthcare
+2024-09-20,Metro Card Recharge,5707.13,Travel
+2024-09-22,Starbucks,261.4,Food
+2024-09-22,Barbeque Nation,1197.9,Food
+2024-09-23,Haldiram's,388.17,Food
+2024-09-23,SpiceJet,5528.57,Travel
+2024-09-23,Reliance Digital,5791.68,Shopping
+2024-09-25,Nykaa,3037.77,Shopping
+2024-09-26,Social Restaurant,379.4,Food
+2024-09-26,H&M India,4521.94,Shopping
+2024-09-27,BESCOM Electricity,4598.55,Bills
+2024-09-28,Cleartrip,7812.25,Travel
+2024-09-28,MTR Foods,588.08,Food
+2024-09-28,Skillshare,3053.26,Education
+2024-09-29,Lifestyle Stores,2537.67,Shopping
+2024-09-30,Google One,1417.84,Bills
+2024-10-01,Barbeque Nation,300.72,Food
+2024-10-01,Udemy,3112.36,Education
+2024-10-02,Tata Sky DTH,2840.88,Bills
+2024-10-02,Behrouz Biryani,859.71,Food
+2024-10-02,Croma,2545.04,Shopping
+2024-10-03,Yoga Studio,247.22,Healthcare
+2024-10-03,IRCTC,9496.45,Travel
+2024-10-04,Coursera,3238.4,Education
+2024-10-05,Vistara,9889.16,Travel
+2024-10-06,Netflix,879.4,Bills
+2024-10-08,FreshMenu,1136.13,Food
+2024-10-08,upGrad,2559.47,Education
+2024-10-09,Tata Sky DTH,3873.51,Bills
+2024-10-12,Lifestyle Stores,1923.27,Shopping
+2024-10-12,ZEE5,1915.01,Entertainment
+2024-10-13,Cafe Coffee Day,1053.81,Food
+2024-10-13,Meru Cabs,2820.67,Travel
+2024-10-13,MX Player Premium,1758.26,Entertainment
+2024-10-14,Meesho,3403.72,Shopping
+2024-10-14,Ola Cabs,6709.58,Travel
+2024-10-14,Behrouz Biryani,403.23,Food
+2024-10-15,Tata Sky DTH,4654.45,Bills
+2024-10-15,Swiggy,170.97,Food
+2024-10-15,Starbucks,572.91,Food
+2024-10-15,SBI Credit Card Bill,3453.18,Bills
+2024-10-15,Udupi Darshini,838.28,Food
+2024-10-15,FreshMenu,833.5,Food
+2024-10-15,Behrouz Biryani,281.52,Food
+2024-10-16,Rent Payment,1716.88,Bills
+2024-10-17,Flipkart,1412.68,Shopping
+2024-10-17,Amazon Prime,1000.33,Bills
+2024-10-17,Domino's Pizza,840.55,Food
+2024-10-18,Metro Card Recharge,8211.16,Travel
+2024-10-18,Goibibo,7182.45,Travel
+2024-10-19,Microsoft 365,3083.88,Bills
+2024-10-19,Ola,6001.55,Travel
+2024-10-19,MasterClass,4662.51,Education
+2024-10-20,LIC Premium,4494.33,Bills
+2024-10-21,IndiGo Airlines,5865.71,Travel
+2024-10-21,Drivezy,9281.83,Travel
+2024-10-22,Box8,962.9,Food
+2024-10-22,Ajio,5322.2,Shopping
+2024-10-22,More Supermarket,3750.0,Shopping
+2024-10-24,Flipkart,3707.37,Shopping
+2024-10-25,H&M India,5106.03,Shopping
+2024-10-25,Ola,7183.07,Travel
+2024-10-25,Paytm Insurance,1653.93,Bills
+2024-10-26,BigBasket,3170.44,Shopping
+2024-10-26,DMart,2501.8,Shopping
+2024-10-27,Social Restaurant,1026.98,Food
+2024-10-29,Domino's Pizza,430.77,Food
+2024-11-01,Practo,2149.48,Healthcare
+2024-11-01,Spencer's Retail,4142.8,Shopping
+2024-11-02,LIC Premium,208.86,Bills
+2024-11-02,Zepto,4367.6,Shopping
+2024-11-02,Cafe Coffee Day,417.59,Food
+2024-11-03,Westside,2421.67,Shopping
+2024-11-04,ALTBalaji,1488.61,Entertainment
+2024-11-04,Barbeque Nation,398.71,Food
+2024-11-06,Zepto,2504.52,Shopping
+2024-11-07,SBI Credit Card Bill,317.81,Bills
+2024-11-07,Starbucks,213.78,Food
+2024-11-09,Vistara,11887.86,Travel
+2024-11-09,PVR Cinemas,2146.45,Entertainment
+2024-11-11,Amazon Prime,569.52,Bills
+2024-11-12,MakeMyTrip,8571.65,Travel
+2024-11-12,McDonald's,384.76,Food
+2024-11-12,Haldiram's,1108.92,Food
+2024-11-13,LIC Premium,865.86,Bills
+2024-11-13,Cleartrip,5310.66,Travel
+2024-11-14,Social Restaurant,742.69,Food
+2024-11-15,BWSSB Water,773.15,Bills
+2024-11-16,MakeMyTrip,5179.31,Travel
+2024-11-16,Metro Card Recharge,1166.47,Travel
+2024-11-17,Tata Cliq,3966.45,Shopping
+2024-11-17,HDFC Loan EMI,2203.76,Bills
+2024-11-17,Meru Cabs,866.02,Travel
+2024-11-20,Udupi Darshini,434.68,Food
+2024-11-20,BESCOM Electricity,2103.23,Bills
+2024-11-20,EatFit,297.17,Food
+2024-11-22,BMTC Bus Pass,9623.1,Travel
+2024-11-23,Vistara,7355.14,Travel
+2024-11-23,Steam Games,1165.24,Entertainment
+2024-11-23,Fastrack,1593.83,Entertainment
+2024-11-23,RedBus,4890.14,Travel
+2024-11-24,More Supermarket,7136.12,Shopping
+2024-11-24,Faasos,252.7,Food
+2024-11-24,Spotify Premium,3307.63,Bills
+2024-11-25,FreshMenu,1178.52,Food
+2024-11-25,ACT Fibernet,3399.73,Bills
+2024-11-25,Axis Bank EMI,1695.18,Bills
+2024-11-26,LIC Premium,4839.0,Bills
+2024-11-27,FreshMenu,1028.79,Food
+2024-11-29,Ayur Clinic,2911.28,Healthcare
+2024-11-30,MakeMyTrip,792.39,Travel
+2024-11-30,Google One,4392.7,Bills
+2024-11-30,Google One,2752.49,Bills
+2024-12-01,Box8,599.63,Food
+2024-12-01,LIC Premium,774.54,Bills
+2024-12-02,Yatra,1292.19,Travel
+2024-12-02,Vedantu,2132.83,Education
+2024-12-02,Columbia Asia,212.92,Healthcare
+2024-12-03,Amazon,4350.79,Shopping
+2024-12-03,Westside,2832.77,Shopping
+2024-12-04,Drivezy,5332.43,Travel
+2024-12-05,LinkedIn Learning,1891.01,Education
+2024-12-06,Fastrack,2617.34,Entertainment
+2024-12-06,Manipal Hospital,2753.33,Healthcare
+2024-12-07,MakeMyTrip,4773.4,Travel
+2024-12-08,BESCOM Electricity,2075.19,Bills
+2024-12-11,Netflix,3742.52,Bills
+2024-12-12,SBI Credit Card Bill,3111.0,Bills
+2024-12-12,IRCTC,6950.24,Travel
+2024-12-12,Spotify Premium,3108.48,Bills
+2024-12-13,Swiggy,239.91,Food
+2024-12-14,Faasos,1141.99,Food
+2024-12-14,Zepto,867.5,Shopping
+2024-12-15,Jio Recharge,632.04,Bills
+2024-12-15,Vedantu,3990.15,Education
+2024-12-16,Meru Cabs,922.03,Travel
+2024-12-16,INOX Movies,1973.12,Entertainment
+2024-12-17,Drivezy,531.94,Travel
+2024-12-17,INOX Movies,363.64,Entertainment
+2024-12-18,Steam Games,560.19,Entertainment
+2024-12-18,Axis Bank EMI,3765.21,Bills
+2024-12-19,Haldiram's,310.1,Food
+2024-12-19,INOX Movies,1365.9,Entertainment
+2024-12-20,Gym Membership,1157.27,Healthcare
+2024-12-20,Uber,9499.11,Travel
+2024-12-21,Dr. Lal PathLabs,105.7,Healthcare
+2024-12-21,Society Maintenance,3942.36,Bills
+2024-12-23,Rapido,9558.35,Travel
+2024-12-23,Tata Sky DTH,668.14,Bills
+2024-12-24,Paytm Insurance,2616.97,Bills
+2024-12-25,More Supermarket,6107.09,Shopping
+2024-12-26,Box8,435.09,Food
+2024-12-28,Swiggy,263.49,Food
+2024-12-28,FreshMenu,1104.51,Food
+2024-12-28,Steam Games,1720.43,Entertainment
+2024-12-29,EatFit,1082.32,Food
+2024-12-29,DMart,1493.82,Shopping
+2024-12-30,MakeMyTrip,9149.61,Travel
+2024-12-30,Practo,1267.18,Healthcare
+2024-12-31,FastTag Recharge,6256.03,Travel
+2024-12-31,Myntra,6521.81,Shopping
