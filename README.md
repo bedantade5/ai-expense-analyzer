@@ -76,11 +76,15 @@ python ml_engine.py
 
 Launch the FastAPI backend. It will automatically initialize the SQLite database on startup.
 ```bash
-uvicorn api:app --reload
+uvicorn api:app --reload --port 8000
 ```
 
-Once running, visit the interactive API documentation (Swagger UI) at:
-**http://127.0.0.1:8000/docs**
+### 6. In a NEW terminal, start Streamlit
+
+```bash
+streamlit run app.py
+```
+Then open http://localhost:8501, upload transactions.csv, and click Analyze Transactions.
 
 ---
 
