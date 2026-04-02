@@ -3,9 +3,6 @@ import numpy as np
 from datetime import datetime, timedelta
 import random
 
-random.seed(42)
-np.random.seed(42)
-
 CATEGORIES = {
     "Food": {
         "merchants": [

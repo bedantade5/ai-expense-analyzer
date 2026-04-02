@@ -8,7 +8,7 @@ API_BASE = "http://localhost:8000"
 
 st.set_page_config(
     page_title="Finely · Expense Analyzer",
-    page_icon="₹",
+    page_icon="💸",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
